@@ -1,3 +1,7 @@
+Frontend do aplicativo de ações do Santander realizado durante o evento do Santander Dev Week na Digital Innovation One. Acrescentei algumas modificações para que ele ficasse parecido com o tema atual(2021) do Santander. As tecnologias utilizadas foram Java, Angular, CSS, TypeScript e banco de dados PostgreSQL.
+
+Veja-o funcionando : https://cesarcalafrioli.github.io/bootcamp-dio/
+
 # Homebroker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
