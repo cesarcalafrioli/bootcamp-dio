@@ -2,6 +2,11 @@ Frontend do aplicativo de ações do Santander realizado durante o evento do San
 
 Veja-o funcionando : https://cesarcalafrioli.github.io/bootcamp-dio/
 
+## Screenshot ##
+
+<img src="https://raw.githubusercontent.com/cesarcalafrioli/bootcamp-dio/master/screens/screen-1.png">
+
+
 ### Tecnologias utilizadas ###
 
 - Java
